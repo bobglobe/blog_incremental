@@ -1,0 +1,37 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "user_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "event_datetime",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "product_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "sales_value",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "vat_rate",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "discount_rate",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "modified_sales_value",
+    "type": "FLOAT"
+  }
+]
